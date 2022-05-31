@@ -15,20 +15,23 @@ This is an html file of my first draft of project 2 code.
 
 3) FRMD4A.fasta 
 this is the DNA sequence for the four variants of the FRMD4A gene that I worked with. Extracted from ncbi nucleotide. 
-https://www.ncbi.nlm.nih.gov/gene/55691
+(https://www.ncbi.nlm.nih.gov/gene/55691)
 
 4) model_a.pdb
-This is the protein structure as a pdb file of variant #1. Extracted using SWISS protein and the fasta protein sequence for variant 1 from ncbi. 
+This is the protein structure as a pdb file of variant #1. Extracted using SWISS protein and the fasta protein sequence for variant 1 from ncbi.
+(https://www.ncbi.nlm.nih.gov/nuccore/NM_018027.5)
 
 5) model_b.pdb
 This is the protein structure as a pdb file of variant #2. Extracted using SWISS protein and the fasta protein sequence for variant 2 from ncbi. 
+(https://www.ncbi.nlm.nih.gov/nuccore/NM_001318336.2)
 
 6) model_c.pdb
 This is the protein structure as a pdb file of variant #3. Extracted using SWISS protein and the fasta protein sequence for variant 3 from ncbi. 
+(https://www.ncbi.nlm.nih.gov/nuccore/NM_001318337.2)
 
 7) model_d.pdb
 This is the protein structure as a pdb file of variant #4. Extracted using SWISS protein and the fasta protein sequence for variant 4 from ncbi. 
-
+(https://www.ncbi.nlm.nih.gov/nuccore/NM_001318338.2)
 
 
 
